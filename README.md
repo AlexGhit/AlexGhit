@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @AlexGhit
 - 👀 I’m interested in app development and web development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m using Flutter and Dart
+- 🐍  Also I know python and using it 
